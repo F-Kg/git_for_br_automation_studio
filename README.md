@@ -1,5 +1,7 @@
 # Getting started
 
+## Introduction
+
 This guide will take you through the first steps in using Git as a version control system for a B&R Automation Studio (AS) project.
 
 ## Prerequisites
