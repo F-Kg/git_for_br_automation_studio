@@ -28,6 +28,8 @@ Open git bash and enter:
 
 In your project directory, add a new file and rename it to ".gitignore".
 
+![gitignore](img/.gitignore.png)
+
 This file specifies files that you do not want to put under version control, such as binary files and automatically generated files.
 
 Open .gitignore in a text editor and enter:
@@ -46,9 +48,17 @@ Open git bash in your project directory and enter:
 
 This creates a Git repository inside your project directory.
 
-![Git init](img/git_init.gif)
+![git init](img/git_init.gif)
 
 ## Stage your changes
+
+Open git bash in your project directory and enter:
+
+    git add .
+
+This stages all files (except the ones in .gitignore) for your next commit.
+
+![git add](img/git_add.gif)
 
 ## Commit
 
