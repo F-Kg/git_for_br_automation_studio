@@ -11,6 +11,13 @@ In this guide, we use Git BASH to use Git from the command line. If you prefer a
 
 ## Configure your name and email
 
+If you haven't already entered your name and email in the Git configuration, you must do this now.
+
+Open git bash and enter:
+
+    git config --global user.name '<my_name>'
+    git config --global user.email '<my_email@my_domain.com'
+
 ![Git config](img/git_config.gif)
 
 ## Create a new AS project
@@ -19,7 +26,25 @@ In this guide, we use Git BASH to use Git from the command line. If you prefer a
 
 ## Add a .gitignore file
 
+In your project directory, add a new file and rename it to ".gitignore".
+
+This file specifies files that you do not want to put under version control, such as binary files and automatically generated files.
+
+Open .gitignore in a text editor and enter:
+
+    /Binaries
+    /Diagnosis
+    /Temp
+    /*.set
+    /*.isopen
+
 ## Initialize a Git repository
+
+Open git bash in your project directory and enter:
+
+    git init
+
+This creates a Git repository inside your project directory.
 
 ## Stage your changes
 
