@@ -62,3 +62,19 @@ This stages all files (except the ones in .gitignore) for your next commit.
 
 ## Commit
 
+Open git bash in your project directory and enter:
+
+    git commit -m 'initial commit'
+
+![git commit](img/git_commit.gif)
+
+## Conclusion
+
+Congratulations! Your project is now under version control with Git.
+
+But this is just the beginning, there is **much** more to Git! You will probably want to use a remote repository on your server or on a hosted platform like GitHub, so that you have a backup of your data and so that you can work in teams.
+
+In this tutorial, we decided to only show you the very first steps. With the exception of the .gitignore settings, everything in this tutorial is standard Git and not B&R-specific. There are a lot of great ressources out there that cover Git in great depth, here is a small selection:
+
+- [Video tutorial by Mosh](https://www.youtube.com/watch?v=8JJ101D3knE&t=190s)
+- [The official git documentation](https://git-scm.com/doc)
