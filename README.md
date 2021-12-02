@@ -46,6 +46,8 @@ Open git bash in your project directory and enter:
 
 This creates a Git repository inside your project directory.
 
+![Git init](img/git_init.gif)
+
 ## Stage your changes
 
 ## Commit
