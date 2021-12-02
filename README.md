@@ -11,6 +11,8 @@ In this guide, we use Git BASH to use Git from the command line. If you prefer a
 
 ## Configure your name and email
 
+![Git config](img/git_config.gif)
+
 ## Create a new AS project
 
 ![New AS project](img/as_new_project.gif)
