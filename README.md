@@ -18,7 +18,7 @@ If you haven't already entered your name and email in the Git configuration, you
 Open git bash and enter:
 
     git config --global user.name '<my_name>'
-    git config --global user.email '<my_email@my_domain.com'
+    git config --global user.email '<my_email@my_domain.com>'
 
 ![Git config](img/git_config.gif)
 
