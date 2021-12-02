@@ -28,7 +28,7 @@ Open git bash and enter:
 
 In your project directory, add a new file and rename it to ".gitignore".
 
-![gitignore](img/.gitignore.png)
+![gitignore](img/gitignore.png)
 
 This file specifies files that you do not want to put under version control, such as binary files and automatically generated files.
 
