@@ -24,6 +24,8 @@ Open git bash and enter:
 
 ## Create a new AS project
 
+Create an Automation Studio project as you are used to.
+
 ![New AS project](img/as_new_project.gif)
 
 ## Add a .gitignore file
