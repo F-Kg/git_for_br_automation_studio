@@ -30,7 +30,9 @@ Create an Automation Studio project as you are used to.
 
 ## Add a .gitignore file
 
-In your project directory, add a new file and rename it to ".gitignore".
+In your project directory, add a new file and name it ".gitignore".
+
+	touch .gitignore
 
 ![gitignore](img/gitignore.png)
 
