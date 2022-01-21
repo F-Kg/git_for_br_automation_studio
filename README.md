@@ -84,3 +84,4 @@ In this tutorial, we decided to only show you the very first steps. With the exc
 
 - [Video tutorial by Mosh](https://www.youtube.com/watch?v=8JJ101D3knE&t=190s)
 - [The official git documentation](https://git-scm.com/doc)
+- [Open source game about learning Git by bleeptrack and blinry](https://git-scm.com/doc)
